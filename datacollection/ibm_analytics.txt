@@ -1,0 +1,38 @@
+IBM® SPSS® Statistics is a powerful statistical software platform. It offers a user-friendly interface and a robust set of features that lets your organization quickly extract actionable insights from your data. Advanced statistical procedures help ensure high accuracy and quality decision making. All facets of the analytics lifecycle are included, from data preparation and management to analysis and reporting.
+
+Bring AI models to production
+IBM Watson® Studio empowers data scientists, developers and analysts to build, run and manage AI models, and optimize decisions anywhere on IBM Cloud Pak® for Data. Unite teams, automate AI lifecycles and speed time to value on an open multicloud architecture.
+
+Bring together open source frameworks like PyTorch, TensorFlow and scikit-learn with IBM and its ecosystem tools for code-based and visual data science. Work with Jupyter notebooks, JupyterLab and CLIs — or in languages such as Python, R and Scala.
+
+MLOps
+Watson Studio provides a collaborative platform for data scientists to build, train, and deploy machine learning models. It supports a wide range of data sources enabling teams to streamline their workflows. With advanced features like automated machine learning and model monitoring, Watson Studio users can manage their models throughout the development and deployment lifecycle.
+
+Decision optimization
+Decision optimization streamlines the selection and deployment of optimization models, and enables the creation of dashboards to share results and enhance collaboration.
+
+NLP with Watson
+The Watson Natural Language Processing Premium Environment gives Watson Studio users instant access to pre-trained, high-quality text analysis models in over 20 languages. These models are created, maintained and evaluated for quality in each language by experts at IBM Research and IBM Software.
+
+Conversational AI for fast and friendly customer care
+IBM Watson Assistant is a market-leading, conversational artificial intelligence platform designed to help you overcome the friction of traditional support and deliver exceptional experiences to prospects, customers, and employees. Powered by large language models (LLMs) you can trust, and an intuitive user interface, Watson Assistant empowers your teams to build AI-powered voice agents and chatbots that deliver automated self-service support across all channels and touch-points with seamless integration to the tools that power your business.
+
+Why choose Watson Assistant
+You can deliver exceptional customer experiences that are faster and more accurate than ever — giving you a competitive advantage.
+Boost your financial results
+Return On Investment
+370%
+
+A 2023 Forrester Consulting Total Economic Impact™ study, commissioned by IBM, modeled a composite organization based on real client data that showed a payback period of less than 6 months and an ROI of 370% over three years.
+
+Answers automated with accuracy
+95%
+
+Bradesco automated their customer service answers with 95% accuracy using Watson Assistant—answering 283,000 questions monthly and continuing to learn from feedback of over 10 million interactions.
+
+Self-service availability
+24x7
+
+Provide a consistent experience across channels and scale to handle large contact volumes.  Use an intelligent virtual agent as the initial touchpoint with customers to provide answers and self-service actions—even during off-hours.
+
+

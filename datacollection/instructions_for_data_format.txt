@@ -1,0 +1,11 @@
+1. Please go to https://www.ibm.com/products
+2. Choose your area of expertise
+3. Lets say your choosen area of expertise is data 
+4. You can see from the above link https://www.ibm.com/products?ibmTopics[0][0]=cat.topic%3AAnalytics
+5. Create a text file for your area. 
+6. The format of file name is : ibm_product.txt. [All lower case] 
+7. The file extension is txt file 
+7. For exaple for Analytics it is ibm_analytics.txt 
+8. Copy the content from the webpage as given in the sample file ibm_analytics.txt
+9. Create another file called analytics_questions.txt. This should have all the questions that your data will answer
+10. Once its done, Add to Version control. Check in the repositary
