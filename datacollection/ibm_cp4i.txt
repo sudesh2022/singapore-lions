@@ -1,0 +1,38 @@
+IBM Cloud Pak for Integration is a hybrid integration platform that applies the functionality of closed-loop AI automation to support multiple styles of integration. The platform provides a comprehensive set of integration tools within a single, unified experience to connect applications and data across any cloud or on-premises environment.
+
+Cloud Pak for Integration’s integration software unlocks business data silos and assets as APIs, connects cloud and on-premise apps, and protects in-flight data integrity with enterprise messaging. The platform also delivers real-time event interactions, transfers data across any cloud, deploys and scales with cloud-native architecture, and shared foundational services — all with end-to-end enterprise-grade security and encryption.
+IBM Cloud Pak for Integration offers a powerful, integrated platform for deploying containerized integration capabilities as part of a Red Hat OpenShift deployment environment. With Cloud Pak for Integration, your organization can easily connect applications, systems, and services as part of a managed, scalable, and secure environment.
+
+Cloud Pak for Integration offers:
+
+    IBM Cloud Pak Platform UI - Deploy and manage instances of Cloud Pak for Integration capabilities while easily navigating between them.
+    Automation assets - Store, manage, and retrieve integration assets.
+    Integration assemblies - Deploy multiple instances of other capabilities and components from the same YAML file in a simplied way.
+    API management - Manage your APIs with API Connect.
+    Integration design - Create integration flows with App Connect Designer.
+    Integration dashboard - Deploy integration servers with App Connect Dashboard.
+    Messaging - Get robust, reliable messaging services with MQ Advanced.
+    Event Endpoint Management - Describe your application that produces events to Kafka topics as an event source, and socialize the event source details with application developers.
+    Event Streams - Stream your Kafka events with the award-winning Event Streams capability integrated into Cloud Pak for Integration.
+    Gateway - Access security, control, and a full range of additional services with DataPower® Gateway.
+    High speed transfer server - Transfer files of any size quickly, reliably, and securely with Aspera® HSTS.
+    IBM Cloud Pak foundational services - Access services for authentication, logging, and monitoring, as well as features for managing users and user profile settings.
+
+
+IBM API Connect
+IBM API Connect is a full lifecycle API management solution that uses an intuitive experience to help consistently create, manage, secure, socialize and monetize APIs, helping power digital transformation on premises and across clouds. This means you and your customers can power digital apps and spur innovation in real time. IBM API Connect is also available as-a-Service as a highly scalable, fully managed API management platform on Amazon Web Services (AWS).  It consists of API Gateway, API Manager, Developer Portal and API Analytics.
+
+App Connect
+IBM App Connect is an industry-leading SaaS integration solution that connects any of your applications and data no matter where they reside. With hundreds of prebuilt connectors and customizable templates, organizations can rapidly connect SaaS applications and build integration flows. IBM App Connect can be deployed on-premises and on any cloud or aaS as a highly scalable, fully managed Integration Platform-as-a-Service (iPaaS) on Amazon Web Services (AWS).
+
+IBM App Connect makes SaaS integration easy with a simple, no-code interface and incorporates AI-based features, empowering business users to easily map and transform data in a few clicks. The versatile development environment allows integration specialists to build and deploy integration flows using multiple integration technologies such as API-led, event-driven messaging and more. Powerful, built-in management and dashboard tools allow users to easily govern their integrations to ensure the security and integrity of their data, applications and services.
+
+IBM Aspera
+IBM Aspera takes a different approach to tackling the challenges of big data movement over global WANs. Rather than optimize or accelerate data transfer, Aspera eliminates underlying bottlenecks using a breakthrough transport technology, fully utilizing available network bandwith to maximize speed and quickly scale up with no theoretical limit.
+
+IBM CICS Transaction
+CICS® Transaction Server is a world-class secure and scalable platform for hosting your transactional enterprise applications in a hybrid architecture.
+Applications can be modernized using languages that best fit the skills of your developers and the needs of your business.
+
+IBM DataPower Gateway
+An industry leading, high security application gateway for modern, traditional and hybrid cloud workloads.
