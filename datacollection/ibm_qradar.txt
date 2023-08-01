@@ -1,0 +1,39 @@
+Security information and event management, SIEM for short, is a solution that helps organizations detect, analyze, and respond to security threats before they harm business operations.
+
+The reality is that cybersecurity threats are becoming more advanced and more persistent. This demands an incredible amount of effort by security analysts to sift through countless incidents.
+
+IBM Security® QRadar® SIEM applies machine learning and user behavior analytics to network traffic alongside traditional logs, providing analysts with more accurate, contextualized and prioritized alerts. QRadar SIEM makes threat detection smarter so you can remediate faster while maintaining your bottom line.
+
+Benefits
+
+Accelerate threat response by focusing on alerts that matter
+Use near-real-time analytics to intelligently investigate and prioritize high-fidelity alerts based on the credibility, relevance and severity of the risk.
+
+Identify insider threats and risky user behavior
+Machine-learning based analytics identify anomalies as potential threat actors against a baseline determined by both individual activity and that of a learned peer group.
+
+Get the most out of your network activity with NDR built in
+QRadar SIEM augments traditional log data by monitoring key network flow data so you increase the scope of protection provided.
+
+SIEM options
+    IBM Security® QRadar® SIEM (SaaS)
+        Get all the benefits of QRadar SIEM without needing to invest in hardware and software.
+
+    IBM Security® QRadar® Suite (Software License)
+        License flexible consumption of the full suite of capabilities.
+
+Features
+
+    Visibility of your network security
+        Network behavior collection devices -Get a deeper view into your network with supported external flow protocols.
+
+    Event log sources
+        Access more than 450 device support modules (DSM) and more than 370 applications to capture activity across your environment.
+
+    AWS integrations
+        Utilize deep integration with 10 AWS native services to ingest a broad spectrum of AWS logs and network flows into QRadar SIEM.
+
+Related services
+    IBM Security® Intelligence Operations and Consulting Services
+        IBM consulting services help you assess your threat strategies, unite security operations and response, improve your security posture and migrate to the cloud with confidence.
+
