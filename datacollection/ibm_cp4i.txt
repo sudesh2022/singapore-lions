@@ -23,16 +23,37 @@ IBM API Connect
 IBM API Connect is a full lifecycle API management solution that uses an intuitive experience to help consistently create, manage, secure, socialize and monetize APIs, helping power digital transformation on premises and across clouds. This means you and your customers can power digital apps and spur innovation in real time. IBM API Connect is also available as-a-Service as a highly scalable, fully managed API management platform on Amazon Web Services (AWS).  It consists of API Gateway, API Manager, Developer Portal and API Analytics.
 
 App Connect
-IBM App Connect is an industry-leading SaaS integration solution that connects any of your applications and data no matter where they reside. With hundreds of prebuilt connectors and customizable templates, organizations can rapidly connect SaaS applications and build integration flows. IBM App Connect can be deployed on-premises and on any cloud or aaS as a highly scalable, fully managed Integration Platform-as-a-Service (iPaaS) on Amazon Web Services (AWS).
-
+IBM App Connect Enterprise is an industry-leading SaaS integration solution that connects any of your applications and data no matter where they reside. With hundreds of prebuilt connectors and customizable templates, organizations can rapidly connect SaaS applications and build integration flows. IBM App Connect can be deployed on-premises and on any cloud or aaS as a highly scalable, fully managed Integration Platform-as-a-Service (iPaaS) on Amazon Web Services (AWS).
 IBM App Connect makes SaaS integration easy with a simple, no-code interface and incorporates AI-based features, empowering business users to easily map and transform data in a few clicks. The versatile development environment allows integration specialists to build and deploy integration flows using multiple integration technologies such as API-led, event-driven messaging and more. Powerful, built-in management and dashboard tools allow users to easily govern their integrations to ensure the security and integrity of their data, applications and services.
 
 IBM Aspera
-IBM Aspera takes a different approach to tackling the challenges of big data movement over global WANs. Rather than optimize or accelerate data transfer, Aspera eliminates underlying bottlenecks using a breakthrough transport technology, fully utilizing available network bandwith to maximize speed and quickly scale up with no theoretical limit.
+With fast file transfer and streaming solutions, IBM Aspera software moves data of any size across any distance.  High-speed transfers for data migration to, from and between on-premises data centers and any major cloud. IBM Aspera takes a different approach to tackling the challenges of big data movement over global WANs. Rather than optimize or accelerate data transfer, Aspera eliminates underlying bottlenecks using a breakthrough transport technology, fully utilizing available network bandwith to maximize speed and quickly scale up with no theoretical limit.
 
 IBM CICS Transaction
-CICS® Transaction Server is a world-class secure and scalable platform for hosting your transactional enterprise applications in a hybrid architecture.
+CICS Transaction Server is a world-class secure and scalable platform for hosting your transactional enterprise applications in a hybrid architecture.
 Applications can be modernized using languages that best fit the skills of your developers and the needs of your business.
 
 IBM DataPower Gateway
 An industry leading, high security application gateway for modern, traditional and hybrid cloud workloads.
+
+IBM Information Management system
+IBM Information Management System (IMS) is a hierarchical database and information management system that supports transaction processing. It is available on z/OS.
+IMS is a database-driven, secure, integrated platform for high-performance online transaction and data processing that delivers on the security, flexibility, and scalability of IBM zSystems that's critical to support your business. 
+IMS is at the forefront of your enterprise, hosting applications that can process billions of transactions per day while providing the capabilities to extend the functionality of existing applications by linking them to modern tools and emerging technologies.
+
+IBM MQ
+Proven messaging for hybrid and multicloud environments that’s high-performance and security-rich
+Connect applications and microservices in private data centers, across hybrid or multicloud environments, and at the edge of your enterprise.
+Tap into the value of your existing mission-critical data to gain near-real-time insights. Only IBM MQ protects your business from incorrect data and application errors with exactly-once message delivery.
+
+IBM StepZen Graph Server
+Unlock your data by building, optimizing and scaling GraphQL APIs quickly and easily
+IBM StepZen Graph Server is a GraphQL server that allows developers to build APIs using declarative configurations, so they have to write less code. GraphQL APIs built with StepZen are secure and performant by nature, since they run in an in-memory, Golang-based GraphQL engine, deployed on Kubernetes.
+With GraphQL, companies can iterate faster on their APIs and application development by creating a unified GraphQL API layer for all their data. However, many companies have found that adopting GraphQL can be time and resource intensive.
+With IBM StepZen Graph Server you can build and deploy a production-level GraphQL API in minutes. Simply provide the connection details of your data source and StepZen will generate a secure and optimized GraphQL API. You can also combine (or federate) data from multiple sources, such as SQL, NoSQL, REST, SOAP and other GraphQL APIs.
+
+IBM z/OS Connect
+IBM® z/OS Connect is software to design and run OpenAPI conformant APIs to interact with z/OS applications and data. 
+IBM z/OS Connect provides a simple, intuitive way to bring the power of APIs to your mainframe. You can create consumable APIs in minutes to unlock the value of your IBM zSystems subsystems with truly RESTful APIs.  Make IBM zSystems central to your hybrid cloud strategy by enhancing mainframe applications and data with the power of cloud-native functions.
+
+

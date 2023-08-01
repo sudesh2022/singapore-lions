@@ -1,0 +1,26 @@
+What is CP4I?
+What is the full form of CP4I?
+Can IBM CP4I be deployed on Red Hat OpenShift?
+Are CP4I and IBM Cloud Pak for Integration the same?
+What does CP4I do?
+what is the name of the technology component from IBM with the capability of integrating applications?
+Which IBM technology provides enterprise messaging capabilities?
+Which IBM technology provides a full lifecycle API management solution?
+Is IBM API Connect available in as-a-service model?
+what is the IBM integration solution that connects any applications and data no matter where they reside?
+What is IBM API Connect Enterprise?
+Is IBM ACE available as as-a-Service model?
+Which IBM Technology is available as a fully managed Integration Platform-as-a-Service (iPaaS) on Amazon Web Services (AWS)?
+Is AI based analytic services part of the IBM APIC?
+How are the integrations managed and governed in IBM APIC?
+What is IBM Aspera?
+Why is IBM Aspera used?
+what is the fast file transfer and streaming solution from IBM?
+What is the high speed data transfer solution from IBM?
+Which IBM product provides hierarchical database and information management system that supports transaction processing?
+What is IBM IMS?
+which is the messaging solution from IBM?
+Which IBM technology provides secure messaging for hybrid and multicloud environments?
+Does any IBM technology provide developers the capability to build APIs using declarative configurations using GraphQL?
+Which IBM software helps design and run OpenAPI conformant APIs to interact with z/OS applications and data?
+
