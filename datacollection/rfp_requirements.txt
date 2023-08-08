@@ -1,0 +1,27 @@
+1. Solution Requirements
+
+1.1 Business and Functional Requirements
+The Business and Functional Requirements section of this RFP describes the features that will allow the solution to meet the needs of Bank’s management team, such as dashboards to allow for easy monitoring. The criteria listed below focus on what the solution is expected to do once it is setup, as opposed to the technical features that will allow the solution to operate in the Bank’s current IT environment. Please refer to the next section of the RFP for additional details on Technical requirements.
+
+1.2 Technical Requirements
+
+Vendors are required to demonstrate that the proposed solution can support the four use cases listed below. For these four use cases, vendors are required to initially explain in writing how their solution meets the required tasks. Shortlisted vendors will then be asked to demonstrate these functionalities as part of a product demo session.
+
+a) Describe the statistical software platform you are proposing.
+b) Describe your API lifecycle management solution.
+c) Provide a solution for file transfers and data bigration
+d) Vendor must provide central management of all security monitoring and incident management components and administrative functions from a single web based user interface. Please describe how your solution meets this requirement.
+e) The SIEM solution must support a dashboards. Please describe how your solution meets this requirement.
+
+Vendors are required to use the attached response template in Appendix E to explain how their solution can meet each of the requirements listed below. The written explanations for the use cases can be submitted as a separate document along with the vendor’s response to the RFP. Responses will allow the Bank to assess which solution is the best option for the Bank.
+
+The Other Requirements section focuses on non-product topics such as references from previous clients, the implementation plan for the proposed solution, and the post-sales support that the vendor and the selected implementation team can provide to Bank.
+Other requirements are divided into the following categories:
+i. Product profile and quality
+ii. Vendor profile (including client testimonials and site references)
+iii. Implementation approach and timeline
+iv. Post-sales support
+v. Related solutions
+vi. Additional features
+
+Vendors are required to use the attached response template in Appendix F to explain how their solution can meet each of the requirements listed. Responses will allow the Bank to assess which solution is the best option for the Bank.
