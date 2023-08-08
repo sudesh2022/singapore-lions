@@ -35,5 +35,48 @@ Features
 
 Related services
     IBM Security® Intelligence Operations and Consulting Services
-        IBM consulting services help you assess your threat strategies, unite security operations and response, improve your security posture and migrate to the cloud with confidence.
+    IBM consulting services help you assess your threat strategies, unite security operations and response, improve your security posture and migrate to the cloud with confidence.
 
+Log Source Autodetection (auto-discovery)
+
+When Log Source Autodetection is enabled, if you create a custom log source type that has many instances in your network, you don't need to manually create a log source for each instance.
+
+You can also use the QRadar REST API or a command line script to enable and disable which log source types are autodetected. If you use a smaller number of log source types, you can configure which log sources are autodetected to improve the speed of detection.
+
+IBM® QRadar® has a modular architecture that supports deployments of varying sizes and topologies.
+
+In a single-host deployment, all the software components run on a single appliance, and the QRadar Console provides the user interface, the real-time event and flow views, reports, offenses, asset information, and administrative functions.
+
+To scale QRadar, you can add non-console managed hosts to the deployment. You can configure a specific component type, such as data gateways, processors, and data nodes, for each managed host, providing greater flexibility to manage data collection and processing in a distributed environment.
+
+User roles
+
+A user role defines the functions that a user can access in IBM® QRadar®.
+
+During the installation, four default user roles are defined: Admin, All, WinCollect, and Disabled.
+
+Before you add user accounts, you must create the user roles to meet the permission requirements of your users.
+Security profiles define which networks, log sources, and domains that a user can access.
+
+QRadar® includes one default security profile for administrative users. The Admin security profile includes access to all networks, log sources, and domains.
+
+Before you add user accounts, you must create more security profiles to meet the specific access requirements of your users.
+
+Domains
+Security profiles must be updated with an associated domain. You must define domains on the Domain Management window before the Domains tab is shown on the Security Profile Management window. Domain-level restrictions are not applied until the security profiles are updated, and the changes are deployed.
+
+Domain assignments take precedence over all settings on the Permission Precedence, Networks, and Log Sources tabs.
+
+Encryption
+
+
+To provide secure data transfer between each of the appliances in your environment, IBM® QRadar® has integrated encryption support that uses OpenSSH. Encryption occurs between managed hosts, and is enabled by default when you add a managed host.
+
+When encryption is enabled, a secure tunnel is created on the client that initiates the connection, by using an SSH protocol connection. When encryption is enabled on a managed host, an SSH tunnel is created for all client applications on the managed host. When encryption is enabled on a non-Console managed host, encryption tunnels are automatically created for databases and other support service connections to the Console. Encryption ensures that all data between managed hosts is encrypted.
+
+web-based GUI
+QRadar Web Interface (Web-based GUI) and Dashboard management
+
+Use the Dashboard tab, which is the default view when you log in to IBM QRadar, to focus on specific areas of your network security. The workspace supports multiple dashboards on which you can display your views of network security, activity, or data that is collected.
+
+You can customize your dashboard. The content that is displayed on the Dashboard tab is user-specific. Changes that are made within a session affect only your system. For example, you can make these customizations:
