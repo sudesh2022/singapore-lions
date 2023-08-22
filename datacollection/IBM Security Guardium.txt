@@ -1,0 +1,32 @@
+1. Overview of IBM Security® Guardium®: 
+
+IBM Security® Guardium® is a family of data security software in the IBM Security portfolio that protects sensitive on-premises and cloud data. IBM Security Guardium is a data security solution that can adapt as the threat environment changes, providing complete visibility, compliance and protection throughout the data security lifecycle. Guardium is a modern, scalable data security platform that is ready to meet the demands of today’s progressing environments. It protects sensitive and regulated data across multiple cloud environments while managing compliance obligations, discovering where sensitive data lives, encrypting and monitoring what’s important and reducing your risk while responding to threats.
+
+2. Why Guardium?
+A Forrester study commissioned by IBM found a 406% ROI with benefits of USD 5.86 million over 3 years. 60 billion security events per day in over 130 countries are monitored by IBM. Per KuppingerCole Leadership Compass for Data Security Platforms, IBM Security Guardium was ranked as a leader in four major categories: Overall Leader, Product Leader, Innovation Leader, and Market Leader. 
+
+3. What are Benefits of Guardium?
+
+Automate data discovery and classification.  Enterprises are challenged with understanding where their data resides and whether it needs to be further protected. Guardium can discover, classify and catalog regulated structured and unstructured data residing on premises and in the cloud to uncover vulnerabilities.
+
+Monitor activity and protect data. A fundamental challenge with data security is identifying who has access and what can they do. Enterprises need real-time activity monitoring for on-prem and cloud data sources, so mission-critical data remains protected. Guardium protects data with encryption, key management, real-time alerts, dynamic redaction, quarantining suspect IDs and more.
+
+Speed up data compliance. Varying and often-changing compliance needs are a challenge. Guardium can speed compliance activities by using a simplified technical environment and prebuilt templates for regulations such as PCI DSS, SOX, HIPAA, GDPR, CCPA and many more that automate compliance workflows. This enables faster reporting, streamlined processes, reduced TCO and stronger compliance posture.
+
+Understand risk and prioritize investigations. Your security analysts can quickly become overburdened with non-prioritized threats. Guardium provides advanced analytics and risk scoring to identify unknown threats. By integrating with major security tools, it enables your security analysts to prioritize and orchestrate responses across the SOC and ticketing systems.
+
+4. What products are included in Guardium products Family?
+
+IBM Security® Guardium® Insights. Uncover data security risks in your hybrid cloud with risk scoring, centralized visibility, simple compliance enablement, advanced analytics, flexible deployment options and limitless scalability. Pair multiple Guardium portfolio products for best-in-class data security posture management.   Please refer to this webpage for more details: Strengthen data security and compliance -> https://www.ibm.com/products/guardium-insights
+
+IBM Security® Guardium® Data Protection. Monitor data activity and accelerate compliance auditing and reporting for your data stored anywhere. Discover and classify data and data sources, monitor user activity and respond to threats in near real time. Please refer to this webpage for more details: Automate data protection -> https://www.ibm.com/products/ibm-guardium-data-protection
+
+IBM Security® Guardium® Data Encryption. Encrypt sensitive data in all states and across environments: your files, databases and applications. Address data security and privacy regulations, and control encryption keys for cloud-based data. Please refer to this webpage for more details: Protect with powerful encryption -> https://www.ibm.com/products/guardium-data-encryption
+
+IBM Security® Discover and Classify. Rely on zero-trust based discovery and classification of sensitive and regulated data, wherever it resides—whether structured or unstructured, at rest or in motion—for visibility, context and insight into your data. Please refer to this webpage for more details: Gain greater visibility -> https://www.ibm.com/products/ibm-security-discover-and-classify
+
+IBM Security® Guardium® Vulnerability Assessment. Understand your security posture by scanning your data infrastructure to detect vulnerabilities, cyberthreats and security gaps. Please refer to this webpage for more details: Find vulnerabilities quickly -> https://www.ibm.com/products/ibm-guardium-vulnerability-assessment
+
+IBM Security® Guardium® Key Lifecycle Manager. Deliver centralized, secured key management with reduced costs and greater operational efficiency. Please refer to this webpage for more details: Simplify and automate encryption keys -> https://www.ibm.com/products/ibm-security-key-lifecycle-manager
+
+5. Want to know more details about Guardium? Want to talk to an security expert? Please book a meeting with a Guardium expert in a free, 30-minute call, using this website: https://www.ibm.com/guardium?lnk=flatitem#
